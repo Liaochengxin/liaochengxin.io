@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Chengxin Liao</title>
+    <link>http://localhost:1313/about/</link>
+    <description>Recent content in Abouts on Chengxin Liao</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>liaocx@ihep.ac.cn (Chengxin Liao)</managingEditor>
+    <webMaster>liaocx@ihep.ac.cn (Chengxin Liao)</webMaster>
+    <lastBuildDate>Tue, 19 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/about/</link>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate><author>liaocx@ihep.ac.cn (Chengxin Liao)</author>
+      <guid>http://localhost:1313/about/about/</guid>
+      <description>&lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;&#xA;&lt;p&gt;Welcome to my personal website! I am Chengxin Liao, a researcher at IHEP.&lt;/p&gt;&#xA;&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;PhD in Physics, IHEP, 2020-2024&lt;/li&gt;&#xA;&lt;li&gt;Master in Physics, IHEP, 2017-2020&lt;/li&gt;&#xA;&lt;li&gt;Bachelor in Physics, University of Science and Technology of China, 2013-2017&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;High Energy Physics&lt;/li&gt;&#xA;&lt;li&gt;Particle Physics&lt;/li&gt;&#xA;&lt;li&gt;Experimental Physics&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Email: &lt;a href=&#34;mailto:liaocx@ihep.ac.cn&#34; rel=&#34;&#34;&gt;liaocx@ihep.ac.cn&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

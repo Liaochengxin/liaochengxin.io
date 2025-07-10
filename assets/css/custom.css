@@ -1,0 +1,81 @@
+/* === 全局字体与排版优化 === */
+body {
+  font-family: "PingFang SC", "Microsoft YaHei", Arial, sans-serif !important;
+  font-size: 16px !important;
+  line-height: 1.6 !important;
+  color: #333 !important;
+  background-color: #fff !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* === About 页面容器样式 === */
+.about-container {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+
+/* === About 页面正文文字样式 === */
+.about-text {
+  font-size: 18px;
+  line-height: 1.7;
+  color: #333;
+  font-weight: 400;
+}
+
+/* 标题（三级标题） */
+.about-text h3 {
+  font-weight: 700;
+  font-size: 1.8rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  color: #222;
+  border-bottom: 2px solid #eee;
+  padding-bottom: 0.5rem;
+}
+
+/* 段落和列表间距 */
+.about-text p,
+.about-text ul,
+.about-text ol,
+.about-text li {
+  margin-bottom: 1rem;
+}
+
+/* 链接颜色 */
+.about-text a {
+  color: #007acc;
+  text-decoration: underline;
+}
+
+/* 加粗和斜体 */
+.about-text strong {
+  font-weight: 700;
+}
+.about-text em {
+  font-style: italic;
+}
+
+/* Swiper 轮播图容器自适应 */
+.swiper {
+  max-width: 320px;
+  margin: 2rem auto;
+}
+
+/* Swiper 轮播图图片圆角 */
+.swiper-slide img {
+  border-radius: 8px;
+  width: 100%;
+  height: auto;
+}
+
+/* 你之前写的logo样式，可以放这里或者独立文件 */
+.logo {
+  height: 40px !important;
+  width: auto !important;
+  max-width: 160px !important;
+  /* 你可以加边框调试 */
+  /* border: 2px solid red !important; */
+}
+

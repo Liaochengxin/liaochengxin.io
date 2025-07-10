@@ -1,0 +1,14 @@
+/* 调整 logo 尺寸 */
+.logo {
+  height: 60px !important;
+  width: auto !important;
+  max-width: 300px !important;
+
+  /* 可选：调试边框，用于确认样式是否生效 */
+  /* border: 2px solid red !important;*/
+}
+
+body {
+  background-color: yellow !important;
+}
+
