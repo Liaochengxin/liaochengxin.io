@@ -107,7 +107,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # 页面头部导航栏标题配置
   [params.header.title]
     #URL of the LOGO
-    logo = "/header/mynamelogo-removebg-preview.png"
+    logo = "static/header/mynamelogo-removebg-preview.png"
     #title name
     name = ""
     # you can add extra information before the name (HTML format is supported), such as icons
@@ -196,7 +196,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # Gravatar Email for preferred avatar in home page
       gravatarEmail = ""
       # URL of avatar shown in home page
-      avatarURL = "/home/IMG_5229.JPG"
+      avatarURL = "static/home/IMG_5229.JPG"
       # title shown in home page (HTML format is supported)
       title = ""
       #titleTypeit = true
