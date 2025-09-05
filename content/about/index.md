@@ -81,13 +81,13 @@ For more details about my academic background and research experience, please re
 <div class="swiper" style="width: 320px; max-width: 100%;">
   <div class="swiper-wrapper">
     <div class="swiper-slide">
-      <img src="home/IMG_5229.JPG" alt="Photo 1" style="width: 100%; border-radius: 8px;">
+      <img src="static/home/IMG_5229.JPG" alt="Photo 1" style="width: 100%; border-radius: 8px;">
     </div>
     <div class="swiper-slide">
-      <img src="home/111.png" alt="Photo 2" style="width: 100%; border-radius: 8px;">
+      <img src="static/home/111.png" alt="Photo 2" style="width: 100%; border-radius: 8px;">
     </div>
     <div class="swiper-slide">
-      <img src="home/me.jpg" alt="Photo 3" style="width: 100%; border-radius: 8px;">
+      <img src="static/home/me.jpg" alt="Photo 3" style="width: 100%; border-radius: 8px;">
     </div>
   </div>
   <!-- 如果需要导航按钮 -->
