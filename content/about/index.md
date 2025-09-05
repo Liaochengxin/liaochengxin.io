@@ -5,6 +5,15 @@ draft: false
 description: "About Chengxin Liao"
 ---
 
+<style>
+  h3 {
+    font-size: 1.8rem;
+    font-family: Montserrat, serif !important;
+    color: #4a5a7a;
+  }
+</style>
+
+
 <!-- Swiper CSS -->
 <link
   rel="stylesheet"
@@ -39,7 +48,7 @@ description: "About Chengxin Liao"
 
 <div class="about-text">
 
-### I. About Me
+### Biography 
 
 I am currently pursuing my Master's degree at the **Institute of High-Energy Physics**, Chinese Academy of Sciences in Beijing.  
 As a member of the **ATLAS collaboration**, my research focuses on searches for supersymmetric particles and other Beyond-the-Standard-Model (BSM) phenomena.
@@ -49,25 +58,23 @@ For more details about my academic background and research experience, please re
 
 ---
 
-### II. Education
+### Education
 
 - **2021-2025**, Department of Physics, Shandong University, *Bachelor of Science (BS)*
 - **2025-present**, Institute of High-Energy Physics(IHEP), Chinese Academy of Sciences(CAS), *Master of Science(MSc)*
-
-  **Dissertation:** *None*
 
   **Supervisor**: Xuai Zhuang
 
 ---
 
-### III. Research Interests
+### Research Interests
 
 - Experimental High-Energy Physics  
 - Machine Learning in HEP-EX
 
 ---
 
-### IV. Contact
+### Contact
 
 - Email: [liaocx@ihep.ac.cn](mailto:liaocx@ihep.ac.cn)
 

@@ -215,7 +215,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     Linkedin = "https://www.linkedin.com/in/chengxin-liao-14b3a2260/"
     Gitlab = "https://gitlab.cern.ch/liaoc"
     Zhihu = "https://www.zhihu.com/people/liao-51-92"
-    Email = "lcx1937629829@icloud.com" 
+    Email = "liaocx@ihep.ac.cn" 
 
   # Page global config
   [params.page]

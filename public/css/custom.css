@@ -8,6 +8,15 @@
   /* border: 2px solid red !important;*/
 }
 
+/*.about-container h3 {
+  font-family: Georgia, serif !important;
+}
+
+:root {
+  --global-font-family: Georgia, serif;
+}
+*/
+
 /*body {
   background-color: yellow !important;
 }
