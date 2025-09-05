@@ -1,4 +1,4 @@
-baseURL = 'https://liaochengxin.github.io/'
+baseURL = '"https://liaochengxin.github.io/liaochengxin.io/"'
 languageCode = 'en-us'
 title = 'Chengxin Liao'
 theme = "LoveIt"
